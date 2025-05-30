@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash0-0
 - 👀 I’m interested in .. Machine Learing Projects , IoT
-- 🌱 I’m currently learning ... Mavhine Learning
+- 🌱 I’m currently learning ... Machine Learning
 - 💞️ I’m looking to collaborate on ... ML projects
 - 📫 How to reach me ... palaakaah148@gmail.com
 - 😄 Pronouns: ...he/him
