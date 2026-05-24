@@ -5,6 +5,7 @@
 - 📫 How to reach me ... palaakaah148@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i am interested in almost all tech related fields and wanna learn everything
+- HuggingFace : https://huggingface.co/Aakash010
 
 <!---
 Akash0-0/Akash0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
